@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html>
   <head>
-    <meta charset="UTF-8" />
+    <base href="" />
+
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
     <meta content="True" name="HandheldFriendly" />
@@ -18,6 +19,8 @@
       type="text/css"
     />
     <link href="css/aos.css" rel="stylesheet" />
+    <title>Jornal do Investi</title>
+
     <!-- Facebook Pixel Code -->
     <script>
       !(function (f, b, e, v, n, t, s) {
@@ -130,7 +133,7 @@
     /></noscript>
     <!-- End Meta Pixel Code -->
     <script>
-      fbq("track", "adv2");
+      fbq("track", "adv1");
     </script>
 
     <!-- Google Tag Manager -->
@@ -147,8 +150,6 @@
       })(window, document, "script", "dataLayer", "GTM-KLP66WP");
     </script>
     <!-- End Google Tag Manager -->
-
-    <title>Jornal do Investi</title>
   </head>
   <body
     class="single single-post"
@@ -164,7 +165,7 @@
               <img src="images/logo4.jpg" />
             </span>
           </div>
-        </div><
+        </div>
       </div>
       <div class="item promo-block lead-image">
         <div class="media">
@@ -174,7 +175,7 @@
                 <img
                   alt=""
                   class="js-srcset-img shortcode-image"
-                  src="images/revenda.png"
+                  src="images/hero-garcom.jpg"
                   title=""
                   width="100%"
                 />
@@ -187,8 +188,8 @@
                     <section class="feature-item">
                       <div class="feature-item-content">
                         <h1 class="feature-item-hed">
-                          Funcionário de Revenda de carros de Curitiba larga o
-                          emprego com R$127.505,80 na sua conta.
+                          Garçom de bairro humilde larga o emprego com
+                          R$98.572,23 na conta
                         </h1>
                       </div>
                     </section>
@@ -267,90 +268,99 @@
                     <br />
                     <br />
                     <p class="dropcap">
-                      <b> Impressionante: </b>
-                      Funcionário de uma revenda da região metropolitana de
-                      Curitiba larga o emprego com R$127.505,80 na sua conta.
+                      <b> Inacreditável: </b>
+                      garçom de um dos bairros mais humildes de São Paulo larga
+                      o emprego com R$98.572,23 na conta
                     </p>
                     <p>
-                      Marcio Mota, de Curitiba- PR, era funcionário de uma
-                      grande concessionária e agora está com R$127.505,80 no
-                      banco. Depois de ler exatamente como ele fez sua primeira
-                      fortuna, você não vai acreditar e vai querer tentar por
-                      conta própria!
+                      Rafael Lenert estava endividado quando pediu emprego em um
+                      restaurante simples, mas você vai ficar chocado quando
+                      descobrir o que ele usou pra construir sua fortuna em tão
+                      pouco tempo, e é bem provável que você use isso também.
                     </p>
-                    <p class="bold">
-                      [ATUALIZAÇÃO] Após publicarmos esse artigo, 273 leitores
-                      já começaram a usar e juntos já faturaram mais de
-                      R$202.376,23.
+                    <p>
+                      <b
+                        >[ATUALIZAÇÃO] Após publicarmos esse artigo, 273
+                        leitores já começaram a usar e juntos já faturaram mais
+                        de R$202.376,23.</b
+                      >
                     </p>
                     <div class="results">
-                      <img src="images/fren2.jpg" alt="" />
+                      <img src="images/img-01.jpg" alt="" />
                       <p class="bold">
                         "Os preços não paravam de subir e eu tinha certeza que
                         ia buscar um terceiro emprego só para sobreviver"
                       </p>
                     </div>
                     <p>
-                      <b> Marcio explica: </b>
-                      "Minha única preocupação sempre foi sustentar minha
-                      família. Os preços parecem aumentar a cada semana e isso
-                      significa pegar mais empregos só para conseguir
-                      sobreviver. Sendo Funcionário da concessionária, não
-                      conseguia ganhar o suficiente a cada mês."
+                      <b> Rafael conta: </b>
+                      "minha única preocupação sempre foi colocar comida na mesa
+                      dos meus filhos. O problema é que os preços não paravam de
+                      subir e eu tinha certeza que ia buscar um terceiro emprego
+                      só para sobreviver. Sendo garçom e tendo um segundo turno
+                      em uma loja de sapatos, não tirava o suficiente pra passar
+                      o mês"
                     </p>
                     <p>
-                      Um amigo meu me contou sobre esse
+                      Um amigo meu me contou sobre esse novo
                       <a
                         href="https://chadesdisends.com/click"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener"
                         >"indicador"</a
                       >
-                      do qual todo mundo está falando em todo o Brasil. Ele usou
-                      por 3 semanas e ganhou mais de <b>R$10.478,33</b>. Pensei
-                      que devia ser algum esquema, mas todas as minhas dúvidas
-                      sumiram quando ele me mostrou o dinheiro na sua conta.
+                      que todo mundo está falando no Brasil. Ele o usou por 2
+                      semanas e ganhou mais de R$15.478,33. Sinceramente eu nem
+                      acreditei, mas depois que ele mostrou o extrato bancário,
+                      e o dinheiro na conta, não teve jeito.
                     </p>
                     <p>
                       <b
                         >"Ele me pegou hoje depois do trabalho para ir com ele
-                        ao banco. Ele tirou R$12.000 e me emprestou R$1340 para
-                        investir. Eu só queria ficar com o dinheiro, mas parecia
-                        uma oportunidade boa demais para deixar passar".</b
+                        ao banco. Ele tirou R$12.000 e me deu R$870 para
+                        investir. Eu até pensei em ficar com esse dinheiro, mas
+                        parecia uma oportunidade boa demais pra deixar
+                        passar."</b
                       >
                     </p>
                     <p>
-                      "Depois que cheguei em casa, assisti os vídeos como ele me
-                      disse e fui dormir porque tinha trabalhado uma jornada
-                      dupla, era feirão de vendas. Quando acordei na manhã
-                      seguinte, era minha folga, fui abrir esse indicador pra
-                      ver qual era… Imaginem minha surpresa quando vi que ganhei
-                      R$689,58 naquele mesmo dia".
+                      "Depois que cheguei em casa, investi o dinheiro como ele
+                      me disse e fui dormir porque tinha acabado de voltar do
+                      segundo turno do trabalho. Não sei se falei, mas eu sou
+                      uma pessoa extremamente cética. Assim que acordei, fui
+                      olhar minha conta achando que já tinha perdido tudo, mas
+                      fiquei chocado quando vi que ganhei R$1.689,58 sem fazer
+                      nada, da noite pro dia.
                     </p>
                     <p>
-                      "Peguei o telefone na hora e liguei para meu amigo para
-                      compartilhar a boa notícia. Ele estava rindo porque
-                      acabava de passar dos R$14.658,66 ganhos. Ele me
-                      apresentou a outros que também investiam com o mesmo
-                      indicador. Um deles fez R$49.821,69 em 4 semanas e o outro
-                      R$126.675,54 em 2 meses".
+                      Peguei o telefone na hora e liguei para meu amigo para
+                      compartilhar a boa notícia. Ele estava rindo porque mal
+                      tinha acabado de gastar os R$12.000 que tinha sacado, e já
+                      tinha colocado mais R$18.695,66 na conta. Ele me
+                      apresentou a outros que também investiam com esse novo
+                      indicador, e um deles já tinha sacado R$49.821,69 em 4
+                      semanas e o outro R$132.783,88 em 2 meses.
                     </p>
                     <p>
-                      "Todo dia de manhã, acesso online por 5 minutos e dou uma
-                      olhada no câmbio. O crescimento é uma loucura, então
-                      depois de uma semana meus R$1.689,58 aumentaram em 836%, o
-                      que representa R$14.351,25".
+                      Há 8 horas atrás, eu não teria acreditado, não vou mentir.
+                      Mas depois de ter ganhado tanto dinheiro da noite pro dia,
+                      pra mim agora tudo parecia ser possível.
                     </p>
                     <p>
-                      "Nesse instante, percebi que ser Funcionário do posto de
-                      gasolina é um emprego sem futuro.
-                      <b> Muito trabalho por muito pouco dinheiro</b>. Depois de
-                      mais 3 semanas minha conta foi para R$142.942,27. Voltar
+                      "Todo dia de manhã, acesso online o indicador e vejo como
+                      está meu saldo. O crescimento é uma loucura, então depois
+                      de uma semana meus R$1.689,58 aumentaram em 836%, o que
+                      representa R$14.351,25"
+                    </p>
+                    <p>
+                      "Nesse instante, percebi que ser garçom é um emprego sem
+                      futuro. Muito trabalho por muito pouco dinheiro. Depois de
+                      mais 4 semanas minha conta foi para R$142.942,27. Voltar
                       ao trabalho parecia maluquice. Naquele momento decidi
-                      renunciar e nunca mais voltar.
+                      renunciar e nunca mais voltar."
                     </p>
                     <div class="results">
-                      <img src="images/fren3.jpg" alt="" />
+                      <img src="images/img-02.jpg" alt="" />
                     </div>
                     <p>
                       "Tudo continuou desse mesmo jeito nas semanas e meses
@@ -362,23 +372,27 @@
                       operações. Só isso."
                     </p>
                     <p class="bold">
-                      "Levei toda minha família para uma viagem de 3 semanas
-                      pela Europa. Eles adoraram. E depois que voltamos, eu
+                      "Decidi fazer uma surpresa e levar minha família pra uma
+                      viagem na Disney, e eles adoraram. Não contei como
+                      consegui o dinheiro, apenas falei que juntei porque queria
+                      que eles sentissem o gostinho da nova vida que sempre quis
+                      dar a eles. E o mais incrível é que trabalhando 10 minutos
+                      por dia com o indicador, quando voltamos pro Brasil, eu
                       estava ainda mais rico. Sempre que eu precisava de mais
                       dinheiro, eu só precisava fazer uma transferência do
-                      indicador pra minha conta bancária. Simples assim."
+                      indicador pra minha conta bancária. Simples assim. "
                     </p>
                     <p>
-                      "Até ontem ganhei R$1.180.505,80. Não consigo imaginar
-                      para onde vai daqui para frente. Três, Seis, Nove milhões
-                      de reais? Desde que comecei a ganhar dinheiro desse jeito,
-                      ajudei muitos amigos e familiares a fazer a mesma coisa.
-                      Eles estavam na luta financeira da mesma forma que eu
-                      estava e isso aqui transformou a vida deles. "
+                      "Até ontem já ganhei um total de R$921.788,23. Não consigo
+                      imaginar para onde vai daqui para frente. Três, Seis, Nove
+                      milhões de reais? Desde que comecei a ganhar dinheiro
+                      desse jeito, ajudei muitos amigos e familiares a fazer a
+                      mesma coisa. Eles estavam na luta financeira da mesma
+                      forma que eu estava e isso aqui transformou a vida deles."
                     </p>
-                    <h2>Mas afinal: o que é que o Márcio usou?</h2>
+                    <h2>Mas afinal: o que é que o Rafael usou?</h2>
                     <p>
-                      Márcio foi capaz de ganhar esse dinheiro extra graças a um
+                      Rafael foi capaz de ganhar esse dinheiro extra graças a um
                       sistema online que tem tornado alguns brasileiros humildes
                       em pessoas ricas há pouco mais de 1 ano, de forma
                       tranquila e sem esforço. Esse sistema não é divulgado pela
@@ -386,11 +400,12 @@
                       funcionários descubram que poderiam estar muito bem de
                       vida sem depender do salário mínimo.
                     </p>
+
                     <p>
                       Uma fonte de uma renomada firma de consultoria financeira
                       afirmou:
                       <i>
-                        "Agora, isto está criando mais milionários semanais do
+                        "Agora, isto está criando mais milionários por semana do
                         que a loteria. De fato, estamos vendo que 90% dos novos
                         clientes que nos procuram atualmente, estão conseguindo
                         construir suas fortunas a partir desse mesmo sistema. O
@@ -400,6 +415,7 @@
                         agora estão ganhando mais do que os principais CEOs em
                         Londres, Nova York ou Tóquio".
                       </i>
+                      ”
                     </p>
                     <p>
                       Depois de uma extensa pesquisa, nós aqui no Jornal O Dia
@@ -430,9 +446,9 @@
                       mais humildes fizeram milhões e milhões de reais do nada e
                       é 100 vezes mais eficaz do que começar um negócio… além de
                       menos perigoso. E o melhor? Sem problemas, sem
-                      "empregados", <b>sem nenhum tipo de vendas</b>.Tudo o que
-                      você precisa fazer é ativar esse sistema e esperar o
-                      dinheiro começar a girar
+                      "empregados", sem nenhum tipo de vendas.Tudo o que você
+                      precisa fazer é ativar esse sistema e esperar o dinheiro
+                      começar a girar
                     </p>
                     <p>
                       Esse sistema usa mais de 7 filtros de análise para
@@ -626,7 +642,7 @@
                           height="350"
                         />
                         <p class="bold">
-                          Caique Silva 5 dias depois de usar o Zeus: Essa foi a
+                          Caique Santos 5 dias depois de usar o Zeus: Essa foi a
                           melhor coisa que já me aconteceu! Larguei a oficina e
                           já agendei a viagem com a família.
                         </p>
@@ -802,7 +818,7 @@
                       eficiente, sem defeitos.
                     </p>
                     <p>
-                      Então… como fazer para usar o Setup Zeus?
+                       Então… como fazer para usar o Setup Zeus?
                       <a
                         href="https://chadesdisends.com/click"
                         target="_blank"
@@ -819,11 +835,11 @@
                         </a>
                     </p>
                     <p style="background: yellow">
-                      <strong
-                        >Nós realmente acreditamos que todo mundo merece a
-                        chance que o Márcio e o Caique receberam, e por isso
-                        fizemos questão de reservar pelo menos 25 vagas pra
-                        nossos leitores.
+                      <strong>
+                        Nós realmente acreditamos que todo mundo merece a chance
+                        que o Márcio e o Caique receberam, e por isso fizemos
+                        questão de reservar pelo menos 25 vagas pra nossos
+                        leitores.
                         <u>
                           A hora de agir é agora, se você não quiser perder essa
                           oportunidade ( que na verdade já pode ter até acabado,
@@ -831,7 +847,13 @@
                         </u></strong
                       >
                     </p>
-
+                    <p style="background-color: yellow; display: none">
+                      <strong>
+                        Due to extremely high demand, there are only 100 spots
+                        left. Applicants will be accepted on a ‘First come,
+                        first serve basis.’
+                      </strong>
+                    </p>
                     <h2>
                       Como acessar a Inteligência Financeira Zeus ainda hoje?
                     </h2>
@@ -853,7 +875,6 @@
                       </li>
                       <div class="results">
                         <a href="https://chadesdisends.com/click">
-                          <img src="images/checkout.jpg" width="600" />
                         </a>
                       </div>
                       <li>
@@ -876,6 +897,7 @@
                         rel="noopener noreferrer"
                         ><u> Clique aqui e garanta o Zeus agora mesmo! </u></a
                       >
+                    </h2>
                     </h2>
                   </section>
                 </div>
@@ -1109,7 +1131,6 @@
         </div>
       </div>
     </div>
-
     <!-- Google Tag Manager (noscript) -->
     <noscript
       ><iframe
@@ -1120,8 +1141,9 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    
-    <style>.dtpcnt{opacity: 0;}</style>
+
+<!-- Voluum Script -->
+<style>.dtpcnt{opacity: 0;}</style>
 <script>
     (function(b,c,l,q,r,e,t,y,d,m,u,z,a,n,g,f,p,v,h,w){function x(){for(var a=c.querySelectorAll(".dtpcnt"),b=0,d=a.length;b<d;b++)a[b][t]=a[b][t].replace(/(^|\s+)dtpcnt($|\s+)/g,"")}w="https:"===b.location.protocol?"secure; ":"";b[d]||(b[d]=function(){(b[d].q=b[d].q||[]).push(arguments)},g=c[q],c[q]=function(){g&&g.apply(this,arguments);if(b[d]&&!b[d].hasOwnProperty("params")&&/loaded|interactive|complete/.test(c.readyState))for(;a=c[r][m++];)/\/?click\/?($|(\/[0-9]+)?$)/.test(a.pathname)&&(a[e]="javascrip"+
 b.postMessage.toString().slice(4,5)+":"+d+'.l="'+a[e]+'",void 0')},setTimeout(function(){(p=/[?&]cpid(=([^&#]*)|&|#|$)/.exec(b.location.href))&&p[2]&&(f=p[2],v=c.cookie.match(new RegExp("(^| )vl-"+f+"=([^;]+)")));var d=c.cookie.match(/(^| )vl-cep=([^;]+)/),k=location[e];if("savedCep"===z&&d&&(!f||"undefined"===typeof f)&&0>k.indexOf("cep=")){var g=-1<k.indexOf("?")?"&":"?";k+=g+d.pop()}a=c.createElement("script");n=c.scripts[0];a.defer=1;a.src=u+(-1===u.indexOf("?")?"?":"&")+"lpref="+l(c.referrer)+
@@ -1130,6 +1152,6 @@ b.postMessage.toString().slice(4,5)+":"+d+'.l="'+a[e]+'",void 0')},setTimeout(fu
 </script>
 <noscript><link href="https://chadesdisends.com/d/.js?noscript=true&lpurl=" rel="stylesheet"/></noscript>
 
-    
+
   </body>
 </html>
